@@ -6,7 +6,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.sublime-workspace
-node_modules
+node_modules/
 
 *.log
 *.cache
