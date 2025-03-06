@@ -1,0 +1,45 @@
+@media (max-width: 480px) {
+    input {
+      padding: 10px;
+      font-size: 0.9rem;
+    }
+  
+    .movie-title {
+      font-size: 1rem;
+    }
+  
+    .movie-year {
+      font-size: 0.8rem;
+    }
+  
+    .movie-description {
+      font-size: 0.75rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    input {
+      width: 90%;
+    }
+  
+    .res {
+      width: 90%;
+    }
+  
+    img {
+      width: 60px;
+      height: 85px;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
